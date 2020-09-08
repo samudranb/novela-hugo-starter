@@ -4,7 +4,7 @@ bio: Being instantiating
 avatar: "/images/samudra-profile-pic.png"
 featured: true
 social:
-- title: github
-  url: https://github.com
+- title: twitter
+  url: https://twitter.com/samudranb
 
 ---
