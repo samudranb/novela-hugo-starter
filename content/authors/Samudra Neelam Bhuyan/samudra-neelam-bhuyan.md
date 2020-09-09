@@ -1,7 +1,7 @@
 +++
 avatar = "/images/samudra-profile-pic-cropped.jpeg"
 bio = "Being Instantiating"
-featured = false
+featured = true
 title = "Samudra Neelam Bhuyan"
 [[social]]
 title = "Twitter"
