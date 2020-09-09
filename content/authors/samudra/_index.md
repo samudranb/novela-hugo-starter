@@ -1,6 +1,6 @@
 +++
 avatar = "/images/samudra-profile-pic-cropped.jpeg"
-bio = "BEING"
+bio = "Being, instantiating."
 featured = true
 social = []
 title = "Samudra Bhuyan"
